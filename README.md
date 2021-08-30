@@ -1,0 +1,1 @@
+# wordpress-required-login-page-template-control
